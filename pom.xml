@@ -8,7 +8,7 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.datastructure.algorithms</groupId>
+	<groupId>com.ds.algo</groupId>
 	<artifactId>data-structure-and-algorithms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>data-structure-and-algorithms</name>

@@ -1,4 +1,4 @@
-package com.datastructure.algorithms;
+package com.ds.algo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
