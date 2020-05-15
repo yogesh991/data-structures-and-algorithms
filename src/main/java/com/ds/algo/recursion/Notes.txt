@@ -1,0 +1,6 @@
+Practical use of Recursion :
+    1. Stack problems
+    2. Tree - Traversal, Seraching, Insertion, Searching
+    3. Sorting Algorithms : Quick Sort, Merge Sort
+    4. Divide and Conquer
+    5. Dynamic Programming
