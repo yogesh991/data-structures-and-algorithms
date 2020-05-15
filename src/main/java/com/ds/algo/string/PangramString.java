@@ -6,7 +6,14 @@ package com.ds.algo.string;
 import java.util.HashSet;
 import java.util.Set;
 
-/*A pangram is a sentence containing every letter in the English Alphabet.*/
+/*
+* A pangram is a sentence containing every letter in the English Alphabet.
+* Pangram: A pangram or holoalphabetic sentence is a sentence using every letter of a given alphabet at least once.
+* The best-known English pangram is “The quick brown fox jumps over the lazy dog.”
+* Lipogram: A lipogram is a kind of constrained writing or word game consisting of writing paragraphs
+* or longer works in which a particular letter or group of letters is avoided—usually a common vowel, and frequently E, the most common letter in the English language.
+* 
+* */
 
 public class PangramString {
     public static void main(String[] args) {
