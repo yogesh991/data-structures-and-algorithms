@@ -15,6 +15,13 @@ import java.util.Set;
 *
 * */
 
+/*
+This statement remove all special character from string
+str = str.replaceAll("\\p{Punct}","");
+
+*/
+
+
 public class PangramString {
     public static void main(String[] args) {
         String str = "The quick brown fox jumps over the lazy dog";
